@@ -1,0 +1,234 @@
+.colwidth12-12 {
+    width: 100%;
+}
+
+.colwidth11-12 {
+    width: 91.7%;
+}
+
+.colwidth10-12 {
+    width: 83.3%
+}
+
+.colwidth9-12 {
+    width: 75%;
+}
+
+.colwidth8-12 {
+    width: 66.7%;
+}
+
+.colwidth7-12 {
+    width: 58.3%;
+}
+
+.colwidth6-12 {
+    width: 50%;
+}
+
+.colwidth5-12 {
+    width: 41.7%;
+}
+
+.colwidth4-12 {
+    width: 33.3%;
+}
+
+.colwidth3-12 {
+    width: 25%;
+}
+
+.colwidth1-12 {
+    width: 8.33%;
+}
+
+
+.hi50 {
+    height:50px;
+}
+
+.hi300 {
+    height: 300px;
+}
+
+.hi500 {
+    height: 500px;
+}
+
+#navbar{
+    background-color: crimson;
+    font-family: 'Kaushan Script', cursive;
+
+
+}
+
+a { 
+    color: white;
+    text-decoration: none;
+}
+
+.flexCentered {
+    display: flex ;
+    flex-direction: row ;
+    flex-wrap: wrap ;
+    justify-content: space-around ;
+    align-items: center ;
+    align-content: center ;
+}
+.leftCol{
+
+    float:left;
+}
+
+.rightCol{
+
+    float:right;
+}
+
+img {
+
+     width:200px;
+
+    height:200px;
+}
+.inicio {
+    width:100%;
+    height: 100%;
+    padding-bottom: 30px;z
+}
+
+.foto-personaje {
+    width:100%;
+    height:100%;
+}
+.newspaper {
+    column-count: 1;
+    padding: 10px;
+    width: auto;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 25px;
+    color: brown;
+    text-align: justify;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.foto-quijote {
+    width:490px;
+    height: 600px;
+    padding-top: 30px;
+}
+
+.theme {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 75px;
+    color: brown;
+}
+.foto-sancho {
+    width:30%;
+    height: 30%;
+    padding-top: 30px;
+}
+.sancho{
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 75px;
+    color: brown;
+
+}
+.marcela{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 75px;
+    color: brown;
+}
+.foto-marcela{
+    margin-top: auto;
+    width: 500px;
+    height: auto;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+body{
+    background-color: antiquewhite;
+}
+
+.titulo {
+    font-family: 'Kaushan Script', cursive;
+    font-size: auto;
+    color: brown;
+}
+.textoquijote{
+    width: 33.3%;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 25px;
+    color: brown;
+    text-align: justify;
+    column-count: one;
+    padding-left: 1px;
+    padding-right: 1px;
+}
+.miguel{
+    width: 100%;
+    height: 100%;
+    padding-top: 30px;
+}
+.obras{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 50px;
+    color: brown;
+    text-align: center;
+    background-color: azure;
+    border-color: brown;
+    border-width: 5px;
+    border-style: solid;
+}
+.foto2{
+    width: 490px;
+    height: 600px;
+    padding-top: 30px;
+}
+.textomarcela{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 25px;
+    color: brown; 
+    text-align: justify;
+    padding-left: 30px;
+    padding-top: 200px;
+}
+.cita{
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+    color: brown; 
+    text-align: center;
+    background-color: aliceblue;
+    border-color: brown;
+    border-width: 5px;
+    border-style: solid;
+}
+.textosancho{
+    column-count: 1;
+    padding: 10px;
+    width: auto;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 25px;
+    color: brown;
+    text-align: justify;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.foto-molino{
+    width: auto;
+    height: auto;
+}
+.newspaper2 {
+    column-count: 1;
+    padding: 10px;
+    width: auto;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 25px;
+    color: brown;
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+}
